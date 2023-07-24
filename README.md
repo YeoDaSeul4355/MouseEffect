@@ -1,6 +1,6 @@
 # ✍️ JAVASCRIPT : MOUSE EFFECT
 
-
+![mouse01](https://github.com/YeoDaSeul4355/MouseEffect/assets/125419623/a284c0a8-96ab-4ecf-97e6-1c0d0602f7a8)
 
 <br><br>
 
@@ -36,3 +36,7 @@
 
 <br><br>
 ## 📸 다른 페이지
+![mouse02](https://github.com/YeoDaSeul4355/MouseEffect/assets/125419623/6fb8ddbd-4a9f-4c48-bf45-d24aa067c709)<br><br>
+![mouse03](https://github.com/YeoDaSeul4355/MouseEffect/assets/125419623/f957d636-1810-45ef-9555-25a6919034b0)<br><br>
+![mouse04](https://github.com/YeoDaSeul4355/MouseEffect/assets/125419623/25b147ca-961e-4837-bdff-94ccf2a5b4d2)
+
